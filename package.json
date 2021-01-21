@@ -44,7 +44,7 @@
     "passport-local": "^1.0.0",
     "react-activity-feed": "^0.9.8",
     "react-router": "^5.0.0",
-    "socket.io": "^2.2.0",
+    "socket.io": "^2.4.0",
     "validator": "^10.11.0"
   }
 }
